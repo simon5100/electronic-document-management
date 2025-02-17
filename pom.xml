@@ -21,6 +21,9 @@
     <developers>
         <developer/>
     </developers>
+    <modules>
+        <module>court_site_parser</module>
+    </modules>
     <scm>
         <connection/>
         <developerConnection/>
